@@ -1,12 +1,12 @@
-# Controle Financeiro Pessoal - Aplicativo Móvel
+# Gestão Financeira Pessoal - Aplicativo Móvel
 
 ![Logo do Projeto](https://github.com/NaVoltaEuCompro/project_aplication/blob/main/assets/img/banner.png)
 
-Este é o repositório oficial do projeto de TCC "Na Volta Eu Compro - Gerenciando Finanças Pessoais de Forma Inteligente" desenvolvido pelo grupo de estudantes do Ensino Técnico de Desenvolvimento de Sistemas da Etec Drª Ruth Cardoso.
+Bem-vindo ao repositório oficial do projeto de TCC "Na Volta Eu Compro - Gerenciando Finanças Pessoais de Forma Inteligente", desenvolvido pelo grupo de estudantes do Ensino Técnico de Desenvolvimento de Sistemas da Etec Drª Ruth Cardoso.
 
 ## Descrição
 
-Este projeto de TCC aborda uma pesquisa sobre a gestão financeira pessoal, destacando a importância da educação financeira e as lacunas observadas na organização das finanças pessoais. O projeto propõe um aplicativo móvel que oferece controle financeiro durante as compras, permitindo a comparação de produtos com base na qualidade e no preço acessível, estabelecimento de limites de gastos e acesso a resumos de gastos e economias por meio de análises de gráficos.
+Este projeto de TCC investiga a gestão financeira pessoal, destacando a relevância da educação financeira e identificando desafios comuns na administração das finanças pessoais. A solução proposta é um aplicativo móvel que oferece suporte para o controle financeiro durante as compras. Ele permite a comparação de produtos com base na qualidade e no preço acessível, estabelecimento de limites de gastos e acesso a resumos de despesas e economias através de análises gráficas.
 
 ## Equipe
 
@@ -17,24 +17,23 @@ Este projeto de TCC aborda uma pesquisa sobre a gestão financeira pessoal, dest
 
 ## Tecnologias
 
-O projeto foi desenvolvido utilizando uma variedade de linguagens e tecnologias, incluindo:
-  
--**Linguagens:**
+Este projeto incorpora diversas linguagens e tecnologias, incluindo:
 
-- **React Native**
+### Desenvolvimento
 
-- **HTML, CSS, JavaScript**
+- **Front-End:** React Native, HTML, CSS, JavaScript
+- **Back-End:** PHP, TypeScript
+- **Banco de Dados:** SQL e MySQL
 
-- **SQL e MySQL** 
+### Design
 
-- **PHP** 
+- **Ferramentas de Design:** Figma, Framer, Spline e Dora
 
-- **TypeScript** 
+### Gestão do Projeto
 
--**Design:**
-
-- **Figma e Framer:** Para a equipe de design, foram utilizadas ferramentas como Figma e Framer para criar e prototipar as interfaces de usuário.
-
+- **Gestão de Tarefas:** Microsoft Planner
+- **Comunicação da Equipe:** Microsoft Teams
+- **Documentação:** Notion
 
 ## Instalação
 
@@ -50,12 +49,12 @@ Este projeto está aberto a contribuições. Sinta-se à vontade para abrir uma 
 
 ## Licença
 
-Este projeto está sob a licença XYZ - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ## Agradecimentos
 
-- Agradecemos a todos os membros da equipe por seu trabalho dedicado e esforço.
-- Agradecemos a todos os colaboradores que contribuíram para este projeto.
+- Agradecemos a todos os membros da equipe pelo comprometimento e dedicação.
+- Também expressamos gratidão a todos os colaboradores que contribuíram para este projeto.
 
 ---
 

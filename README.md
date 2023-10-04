@@ -31,13 +31,9 @@ O projeto foi desenvolvido utilizando uma variedade de linguagens e tecnologias,
 
 - **TypeScript:** Uma linguagem superset do JavaScript que fornece tipagem estática opcional e outras funcionalidades que auxiliam no desenvolvimento robusto.
 
-  -**Design:**
+-**Design:**
 
 - **Figma e Framer:** Para a equipe de design, foram utilizadas ferramentas como Figma e Framer para criar e prototipar as interfaces de usuário.
-
-- **Outras tecnologias:** Além das mencionadas, utilizamos uma variedade de outras bibliotecas e ferramentas para garantir um projeto eficiente e escalável.
-
-Essa combinação de linguagens e tecnologias nos permitiu criar uma aplicação móvel completa e funcional que atende às necessidades do projeto.
 
 
 ## Instalação

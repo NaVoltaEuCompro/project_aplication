@@ -15,21 +15,21 @@ Este projeto de TCC aborda uma pesquisa sobre a gestão financeira pessoal, dest
 - **Back-End:** Álvaro Oliveira
 - **Banco de Dados:** Jennifer Gama
 
-## Tecnologia
+## Tecnologias
 
 O projeto foi desenvolvido utilizando uma variedade de linguagens e tecnologias, incluindo:
   
 -**Linguagens:**
 
-- **React Native:** Utilizado para a criação do aplicativo móvel.
+- **React Native**
 
-- **HTML, CSS, JavaScript:** Linguagens fundamentais para o desenvolvimento do front-end da aplicação.
+- **HTML, CSS, JavaScript**
 
-- **SQL e MySQL:** Utilizados para a manipulação e gestão de dados no banco de dados.
+- **SQL e MySQL** 
 
-- **PHP:** Linguagem utilizada no desenvolvimento do back-end da aplicação para criar a lógica de servidor.
+- **PHP** 
 
-- **TypeScript:** Uma linguagem superset do JavaScript que fornece tipagem estática opcional e outras funcionalidades que auxiliam no desenvolvimento robusto.
+- **TypeScript** 
 
 -**Design:**
 

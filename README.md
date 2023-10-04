@@ -1,6 +1,6 @@
 # Controle Financeiro Pessoal - Aplicativo Móvel
 
-![Logo do Projeto](foto_do_projeto)
+![Logo do Projeto](https://github.com/NaVoltaEuCompro/project_aplication/blob/main/assets/img/banner.png)
 
 Este é o repositório oficial do projeto de TCC "Controle Financeiro Pessoal - Aplicativo Móvel" desenvolvido pelo grupo de estudantes do Ensino Técnico de Desenvolvimento de Sistemas da Etec Drª Ruth Cardoso.
 
@@ -59,4 +59,4 @@ Este projeto está sob a licença XYZ - veja o arquivo [LICENSE](LICENSE) para d
 
 ---
 
-**[Nome do Projeto](link_do_projeto)**
+**[Na Volta Eu Compro](https://github.com/NaVoltaEuCompro/project_aplication/blob/main/assets/img/logo.png)**

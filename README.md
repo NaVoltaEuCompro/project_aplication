@@ -59,4 +59,4 @@ Este projeto está sob a licença XYZ - veja o arquivo [LICENSE](LICENSE) para d
 
 ---
 
-**[Na Volta Eu Compro](https://github.com/NaVoltaEuCompro/project_aplication/blob/main/assets/img/logo.png)**
+**[Na Volta Eu Compro](https://github.com/NaVoltaEuCompro/project_aplication)**

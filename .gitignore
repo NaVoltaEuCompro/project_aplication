@@ -1,0 +1,55 @@
+# Ignorar diretórios e arquivos específicos do Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignorar diretórios específicos do React Native
+android/
+ios/
+
+# Ignorar diretórios e arquivos específicos do ambiente de desenvolvimento (por exemplo, Visual Studio Code)
+.vscode/
+.idea/
+
+# Ignorar arquivos específicos de compilação do Android
+android/app/build/
+android/build/
+android/gradle/
+android/local.properties
+
+# Ignorar arquivos específicos de compilação do iOS
+ios/build/
+ios/Pods/
+ios/*.xcworkspace
+ios/*.xcodeproj/
+ios/*.pbxproj
+ios/*.mode1v3
+
+# Ignorar arquivos gerados pelo sistema operacional
+.DS_Store
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração de editor
+*.swp
+
+# Ignorar arquivos e diretórios de configuração local
+.local/
+.env.local
+
+# Ignorar arquivos específicos de configuração de teste
+.env.test
+
+# Ignorar arquivos de build do TypeScript
+*.tsbuildinfo
+
+# Ignorar arquivos de armazenamento de chaves privadas (por exemplo, para chaves de assinatura de aplicativo)
+*.jks
+*.keystore
+
+# Ignorar arquivos de cache ou cache de pacotes (exemplo: yarn cache)
+.cache/
+yarn-cache/
+npm-cache/
+.pnp/

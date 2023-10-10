@@ -10,10 +10,8 @@ Este projeto de TCC investiga a gestão financeira pessoal, destacando a relevâ
 
 ## Equipe
 
-- **Product Owner (P.O):** Gusttavo Castro
-- **Front-End:** Gabrielly Machado e Sofia Rocha
-- **Back-End:** Álvaro Oliveira
-- **Banco de Dados:** Jennifer Gama
+- **Scrum Master:** Gusttavo Castro
+- **Development Team:** Álvaro Oliveira, Gabrielly Machado, Jennifer Gama e Sofia Rocha
 
 ## Tecnologias
 
@@ -21,7 +19,7 @@ Este projeto incorpora diversas linguagens e tecnologias, incluindo:
 
 ### Desenvolvimento
 
-- **Front-End:** React Native, HTML, CSS, JavaScript
+- **Front-End:** Ionic, HTML, CSS, JavaScript
 - **Back-End:** PHP, TypeScript
 - **Banco de Dados:** SQL e MySQL
 

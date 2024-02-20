@@ -10,6 +10,7 @@ Este projeto de TCC investiga a gestão financeira pessoal, destacando a relevâ
 
 ## Equipe
 
+- **Product Owner:** Sofia Rocha
 - **Scrum Master:** Gusttavo Castro
 - **Development Team:** Álvaro Oliveira, Gabrielly Machado, Gusttavo Castro Jennifer Gama e Sofia Rocha
 

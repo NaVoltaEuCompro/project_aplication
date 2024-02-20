@@ -11,7 +11,7 @@ Este projeto de TCC investiga a gestão financeira pessoal, destacando a relevâ
 ## Equipe
 
 - **Scrum Master:** Gusttavo Castro
-- **Development Team:** Álvaro Oliveira, Gabrielly Machado, Jennifer Gama e Sofia Rocha
+- **Development Team:** Álvaro Oliveira, Gabrielly Machado, Gusttavo Castro Jennifer Gama e Sofia Rocha
 
 ## Tecnologias
 
@@ -37,7 +37,7 @@ Este projeto incorpora diversas linguagens e tecnologias, incluindo:
 
 Para executar este projeto em sua máquina local, siga estas etapas:
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+1. Clone o repositório: `git clone https://github.com/NaVoltaEuCompro/project_aplication`
 2. Instale as dependências: `npm install`
 3. Inicie o aplicativo: `npm start`
 
